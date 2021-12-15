@@ -29,3 +29,4 @@ Anecdotally, the occasional errors seem to be down to the size & position of the
 Medians have helped, but I am still getting some errors. I think I need to abandon using Canny, and instead threshold the meter image and look for the angle with the least number of bright pixels along the line.
 -> So far this seems to be working better.
 # radon_meter
+# radon_meter
